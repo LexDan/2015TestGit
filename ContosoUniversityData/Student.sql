@@ -3,6 +3,7 @@
     [LastName]       NVARCHAR (50) NULL,
     [FirstName]      NVARCHAR (50) NULL,
 	[MiddleName]      NVARCHAR (50) NULL,
+	--First commit
     [EnrollmentDate] DATETIME      NULL,
     PRIMARY KEY CLUSTERED ([StudentID] ASC)
 )
