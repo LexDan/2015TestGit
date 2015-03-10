@@ -5,6 +5,7 @@
 	[MiddleName]      NVARCHAR (50) NULL,
 	--First commit
 	--Second commit
+	--Last commit before push to GitHub
     [EnrollmentDate] DATETIME      NULL,
     PRIMARY KEY CLUSTERED ([StudentID] ASC)
 )
