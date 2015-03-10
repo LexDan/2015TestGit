@@ -8,6 +8,7 @@
 	--Last commit before push to GitHub
 	--Feature 1.1 changes
 	--Additional Feature 1.1 changes
+	--Additional Feature 1.1 changes with a Commit and Push.
     [EnrollmentDate] DATETIME      NULL,
     PRIMARY KEY CLUSTERED ([StudentID] ASC)
 )
