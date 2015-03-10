@@ -7,6 +7,7 @@
 	--Second commit
 	--Last commit before push to GitHub
 	--Feature 1.1 changes
+	--Additional Feature 1.1 changes
     [EnrollmentDate] DATETIME      NULL,
     PRIMARY KEY CLUSTERED ([StudentID] ASC)
 )
